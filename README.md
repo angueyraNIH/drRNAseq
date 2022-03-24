@@ -26,7 +26,7 @@ You must use on these browsers
 
 #### Instructions
 
-1. Click this link to open the JupyterLite environment
+1. Click [this link](angueyraNIH.github.io/drRNAseq) to open the JupyterLite environment
 1. double-click on the "/content/" folder
 1. double-click on the "dr_photoPlotter_Adult.ipynb" notebook
 
