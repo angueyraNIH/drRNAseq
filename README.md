@@ -8,7 +8,7 @@ Code to replicate reanalysis of published datasets available under "/code/"
 
 ## Interactive plottrer
 
-The interactive plotter can be accessed here: **[angueyraNIH.github.io/drRNAseq](angueyraNIH.github.io/drRNAseq/lab/)**
+The interactive plotter can be accessed here: **[angueyraNIH.github.io/drRNAseq](https://angueyranih.github.io/jupyterLiteDemo/lab/)**
 
 > The interactive plotter is based on [JupyterLite](https://jupyterlite.github.io/demo), which enables the use of Jupyter Notebooks in your browser.  
 > If you are not familiar with Jupyter Notebooks, [this might be a helpful](https://www.dataquest.io/blog/jupyter-notebook-tutorial/)
@@ -26,7 +26,7 @@ You must use on these browsers
 
 #### Instructions
 
-1. Click [this link](angueyraNIH.github.io/drRNAseq) to open the JupyterLite environment
+1. Click [this link](https://angueyranih.github.io/jupyterLiteDemo/lab/) to open the JupyterLite environment
 1. double-click on the "/content/" folder
 1. double-click on the "dr_photoPlotter_Adult.ipynb" notebook
 
