@@ -19,10 +19,11 @@ The interactive plotter can be accessed here: **[angueyraNIH.github.io/drRNAseq]
 
 #### Requirements
 
-You must use on these browsers
+You must use one these browsers
 
 - Firefox 90+
 - Chromium 89+
+- Chrome 90+
 
 #### Instructions
 
@@ -30,3 +31,4 @@ You must use on these browsers
 1. double-click on the "/content/" folder
 1. double-click on the "dr_photoPlotter_Adult.ipynb" notebook
 
+![Demo video](./demo.gif)
